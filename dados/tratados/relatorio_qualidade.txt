@@ -1,0 +1,11 @@
+RELATÓRIO DE QUALIDADE DOS DADOS
+==================================
+Vendas brutas: 2415 linhas
+  - 12 vendas duplicadas removidas
+  - 13 grafias de operador -> 4 operadores
+  - 15 grafias de forma de pagamento -> 4 formas
+  - 0 datas que não puderam ser lidas
+Vendas limpas: 2403 linhas
+Extrato da maquininha: 1514 transações
+Extrato PIX: 541 recebimentos
+Fechamentos de caixa: 124 turnos
